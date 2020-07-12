@@ -7,3 +7,11 @@
 - (22.07.2020) Daniel Camilo Padilla González:
 - (29.07.2020) Julián Camilo Triana Infante: Quantum Correlations Part II
 - (05.08.2020) Jose Mauricio Sevilla Moreno: Semiclassical Methods for Quantum Dynamics I
+- (12.08.2020) 
+- (19.08.2020) 
+- (26.08.2020) 
+- (02.09.2020) 
+- (09.09.2020) Saida Diaz
+- (09.16.2020) 
+- (09.23.2020) 
+- (09.30.2020) 
